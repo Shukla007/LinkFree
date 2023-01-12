@@ -1,7 +1,8 @@
 {
   "name": "Abhishek Shukla",
   "type": "personal",
-  "bio": "Full-Stack developer and Open source contributor",
+  "displayStatsPublic": true,
+  "bio": "Full-Stack Developer and Open source Contributor.",
   "avatar": "https://github.com/shukla007.png",
   "links": [
     {
